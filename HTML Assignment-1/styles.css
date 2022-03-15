@@ -1,6 +1,10 @@
-#image1 {
+body {
+    background-color: lightgray;
+}
+.image1 {
     color: #0000ff;
-  }
-  #image3 {
+}
+#image3 {
     color: #ffa500;
-  }
+}
+
