@@ -1,0 +1,13 @@
+#image3 {
+    color: #ffa500;
+}
+body{
+    background-color: rgb(215, 240, 240);
+}
+#mainheader {
+    text-align: center;
+    font-size: medium;
+    color: rgb(130, 17, 145);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #ffa500;
+}
