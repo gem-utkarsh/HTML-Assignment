@@ -1,0 +1,14 @@
+#image3 {
+    color: #ffa500;
+}
+body{
+    background-color: rgb(235, 212, 238);
+    font-size: large ;
+    font-family: 'Times New Roman', Times, serif;
+}
+#mainheader {
+    text-align: center;
+    color: rgb(130, 17, 145);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #ffa500;
+}
